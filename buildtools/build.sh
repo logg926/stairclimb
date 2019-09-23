@@ -1,6 +1,4 @@
-rm ../*
+rm ../
 cd ../stairclimb
-ionic build --production
+ionic build
 cp -a www/* ../
-cd ..
-git add .
