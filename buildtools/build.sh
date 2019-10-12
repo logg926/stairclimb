@@ -1,4 +1,4 @@
-rm -rf ../../logg926 
+rm -rf ../../logg926/* 
 cd ../stairclimb
 ionic build
-cp -a www/* ../../logg926
+cp -a www/* ../../logg926/
